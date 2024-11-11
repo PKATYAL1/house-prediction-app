@@ -1,4 +1,4 @@
-# Shiny AVM Deployment
+# Streamlit AVM Deployment
 By Pari Katyal and Ryan Shihabi
 
 ## Models Deployed
