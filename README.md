@@ -10,7 +10,7 @@ By Pari Katyal and Ryan Shihabi
 
 ## Endpoints
 EC2 Endpoint
- - *Insert when deployed*
+ - http://3.140.207.64:8501
 
 XGBoost Backup Endpoint
  - http://23.240.69.246/xgboost_predict
