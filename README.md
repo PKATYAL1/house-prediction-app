@@ -9,7 +9,9 @@ By Pari Katyal and Ryan Shihabi
 [*Dashboard*](http://3.140.207.64:8501)
 
 ## Endpoints
- 
+EC2 Endpoint 
+ - http://3.140.207.64:5000/predict
+
 XGBoost Backup Endpoint
  - http://23.240.69.246/xgboost_predict
 
