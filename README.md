@@ -3,7 +3,7 @@ By Pari Katyal and Ryan Shihabi
 
 ## Models Deployed
 1. XGBoost
-2. Hybrid CNN
+2. Swin Transformer
 
 ## Dashboard Site
 *Insert when deployed*
