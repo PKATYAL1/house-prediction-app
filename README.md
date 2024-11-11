@@ -6,12 +6,11 @@ By Pari Katyal and Ryan Shihabi
 2. Swin Transformer
 
 ## Dashboard Site
-*Insert when deployed*
+[*Insert when deployed*](http://3.140.207.64:8501)
 
 ## Endpoints
 EC2 Endpoint
- - http://3.140.207.64:8501
-
+- 
 XGBoost Backup Endpoint
  - http://23.240.69.246/xgboost_predict
 
