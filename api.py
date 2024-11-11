@@ -30,12 +30,11 @@ def image_predict():
     if 'image' not in request.files:
         return jsonify({"error": "No image file provided"}), 400
 
-    print(request.files['image'])
     # Get image data
     image_file = request.files['image'].read()
 
     try:
-        # Decode image from POST call
+        # Decode byte image from POST call
         image_np = np.frombuffer(image_file, np.uint8)
         image = cv2.imdecode(image_np, cv2.IMREAD_COLOR)
 
