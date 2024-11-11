@@ -8,6 +8,7 @@ By Pari Katyal and Ryan Shihabi
 ## Dashboard Site
 *Insert when deployed*
 
+## Endpoints
 EC2 Endpoint
  - *Insert when deployed*
 
@@ -19,4 +20,5 @@ Hybrid CNN Backup Endpoint
 
 Setup Instructions:
 1. Backup Endpoints (Optional):
+
 `python3 api.py`
