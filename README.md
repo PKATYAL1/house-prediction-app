@@ -6,7 +6,8 @@ By Pari Katyal and Ryan Shihabi
 2. Swin Transformer
 
 ## Dashboard Site
-[*Dashboard*](http://3.140.207.64:8501)
+[*Dashboard*](http://13.58.45.37:8501
+)
 
 ## Endpoints
 EC2 Endpoint 
